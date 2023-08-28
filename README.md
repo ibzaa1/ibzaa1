@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahimthaanbir" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimthaanbir?logo=twitter&style=for-the-badge" alt="ibrahimthaanbir" /></a> </p>
 
-- I’m currently learning **JavaScript! 😁**
+- I’m currently learning **Python! 😁**
 
 - You can reach me at **ibrahim.thaanbir@gmail.com**
 
