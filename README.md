@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahimthaanbir" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimthaanbir?logo=twitter&style=for-the-badge" alt="ibrahimthaanbir" /></a> </p>
 
-- I’m currently learning **REACT JS😁**
+- I’m currently learning **NOT SURE YET **
 
 - You can reach me at **ibrahim.thaanbir@gmail.com**
 
-- Fun fact - **I dont have any 🥲**
+- Fun fact - **I LOVE WORKING OUT!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
