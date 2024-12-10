@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my personal projects! **my personal projects!**
 
-- 🌱 I’m currently learning Javascript/Python! **Javascript/Python!**
+- 🌱 I’m currently learning **Javascript/Python!**
 
 - ⚡ Fun fact about me **I am gym freak!**
 
