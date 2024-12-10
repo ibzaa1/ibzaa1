@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibby!</h1>
 <h3 align="center">CompsSci Student at the University of Leicester (BSc)</h3>
 
-- 🔭 I’m currently working on my personal projects! **my personal projects!**
+- 🔭 I’m currently working on **my personal projects!**
 
 - 🌱 I’m currently learning **Javascript/Python!**
 
